@@ -2,7 +2,8 @@
 
 ##### Sorry, this page is currently being updated. 
 <br>
-##### Please see below a sample of a Power BI dashboard in the meantime:
+
+##### Please see a sample Power BI dashboard below instead. Thank you for understanding.
 
 ### Power BI:
 <a href="https://github.com/dalealberto/Power-BI/blob/main/Dashboard.png">
