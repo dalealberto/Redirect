@@ -2,7 +2,6 @@
 
 ##### Sorry, this page is currently being updated. 
 <br>
-
 ##### Please see a sample Power BI dashboard below instead. Thank you for understanding.
 
 ### Power BI:
